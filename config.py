@@ -23,7 +23,7 @@ class Config(object):
     TG_USER_SESSION = "BQC__CgAcjJlsgSl0FR27HAGc4slIg8fXRcv0Fp9ZcL5bOPT1gWHtfHyE7wwPBTpFaEVJ82wcIGKi4XjZp9IooLUTK-qSXyt8N6ogmJTHvW4kOP4A8ZHomJjlFDvlZeBVY6QsJnlkNzRULpW27TT0zNWCQrF0WcBuHGnafY9XWkCUoI1LnNe7CAmJSrE_R5oDr-aM0GqCsYhnoeVjnxD4pWCB4N-NrWqCPERZdwaDOJIm-_QDoouB10wvr6kshP6gil6KlQ5SpZmdBq_x-PJbeoT1wborBOqLwg9w464o3vwpXMuB_nb5mZnv2wEAzmlPamUA6CSazfRrvqggbEkwDUX6_ewFAAAAABgpBXkAA"
 
     # Database URI
-    DB_URI = "Your_database_URI"
+    DB_URI = "mongodb+srv://freakboy:freakboy@cluster0.qhvex0i.mongodb.net/?appName=Cluster0"
 
 
 def LOGGER(name: str) -> logging.Logger:
